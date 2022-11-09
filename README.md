@@ -1,4 +1,5 @@
 ### Hola 👋 Soy Angeles!
+<br/>
 
 Vivo en Mar del Plata, Bs As, Argentina 🌎 y estoy comenzando este camino como Desarrolladora Full Stack 🚀. 
 
@@ -8,7 +9,7 @@ Me considero una persona curiosa, dispuesta a adquirir nuevas habilidades, con f
 
 Actualmente, continúo instruyéndome con nuevas tecnologías tanto en área de back-end como de front-end para incrementar mis conocimientos.
 
-
+ <br/>
 
 **Languages and Tools:**
 
@@ -21,12 +22,15 @@ Actualmente, continúo instruyéndome con nuevas tecnologías tanto en área de 
   <a href="https://developer.mozilla.org/es/docs/Learn/Server-side/Express_Nodejs/Introduction"><img src="https://assets.website-files.com/61ca3f775a79ec5f87fcf937/6202fcdee5ee8636a145a41b_1234.png" width="50" height="50"></a>
   <a href="https://www.postgresql.org/"><img src="https://user-images.githubusercontent.com/94530832/200699335-74830abc-ad07-4895-819e-553c793023ef.svg" width="50" height="50"></a>
   <a href="https://sequelize.org/docs/v6/getting-started/"><img src="https://brandeps.com/icon-download/S/Sequelize-icon-vector-01.svg" width="45" height="45"></a>
-  <a href="https://git-scm.com/"><img src="https://brandeps.com/icon-download/G/Git-icon-vector-06.svg" width="45" height="45"></a>
+  <a href="https://git-scm.com/"><img src="https://brandeps.com/icon-download/G/Git-icon-vector-06.svg" width="45" height="45"></a>  
+  <br><br/>
+  
+[![AngelesGallardo GitHub stats](https://github-readme-stats.vercel.app/api?username=angelesgallardo&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
+ <br/>
 
 Contactame!
+ <br/>
 
  <a href="mailto:angelesgallardo.mlg@gmail.com"><img align="left" alt="mail | Gmail" width="30px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" /></a>
 <a href="https://www.linkedin.com/in/angeles-gallardo-dev/"><img align="left" alt="me | Linkedin" width="28px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" /><a/>
