@@ -28,7 +28,8 @@ Actualmente, continúo instruyéndome con nuevas tecnologías tanto en área de 
 
 Contactame!
 
-<a href="https://www.linkedin.com/in/angeles-gallardo-dev/"><img src="https://brandeps.com/icon-download/L/Linkedin-icon-vector-13.svg" width="35" height="30">
+ <a href="mailto:angelesgallardo.mlg@gmail.com"><img align="left" alt="mail | Gmail" width="30px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" /></a>
+<a href="https://www.linkedin.com/in/angeles-gallardo-dev/"><img align="left" alt="me | Linkedin" width="28px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" /><a/>
 
 
 
